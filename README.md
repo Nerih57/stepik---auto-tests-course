@@ -1,3 +1,2 @@
 # stepik---auto-tests-course
-stepik-homework
-test
+Домашние задания для курса Автоматизации тестирования на сайте Stepik
